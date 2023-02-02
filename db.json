@@ -53,9 +53,27 @@
       "firstName": "john",
       "lastName": "smith",
       "phone": "1234"
+    },
+    {
+      "id": "e13ed8ec-2533-408a-9f9b-094e57bd9785",
+      "firstName": "john",
+      "lastName": "smith",
+      "phone": "1234"
+    },
+    {
+      "id": "a470fa1e-b7bf-4150-9cd4-362908792742",
+      "firstName": "john",
+      "lastName": "smith",
+      "phone": "1234"
+    },
+    {
+      "id": "d6356123-c62f-40f2-8007-e03e973a12c2",
+      "firstName": "john",
+      "lastName": "smith",
+      "phone": "1234"
     }
   ],
-  "stockist":[
+  "stockist": [
     {
       "name": "tshirt",
       "price": 25
